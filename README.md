@@ -22,7 +22,7 @@ The analysis includes the following variables:
 - `total_goals` = total goals scored in a match (`FTHG + FTAG`)
 
 ## Methods and Analysis
-In the Jupyter notebook, I:
+In the Jupyter notebook:
 1. Loaded the Premier League dataset
 2. Created the variable `total_goals`
 3. Calculated the mean, median, variance, and standard deviation of total goals
